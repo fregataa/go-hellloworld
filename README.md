@@ -27,6 +27,6 @@ then get the message "Hello, Go examples!"
 
 1. Set environment variables
 
-![gopath](https://user-images.githubusercontent.com/44239739/107127228-08939580-68f8-11eb-9a31-f30d3c1f01c4.png)
+![paths](https://user-images.githubusercontent.com/44239739/107127310-a4250600-68f8-11eb-9bc4-d89a068efbdc.png)
 
-2. do the same thing...
+2, 3, 4 do the same thing...
