@@ -21,6 +21,7 @@ go get github.com/golang/example/hello
 ```
 then get the message "Hello, Go examples!"
 
+---
 
 ### OS : Windows 10
 
